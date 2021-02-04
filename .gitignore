@@ -1,6 +1,5 @@
 *.DS_Store
 
 ### Jekyll ###
-_site
 .jekyll-metadata
 *-cache/
