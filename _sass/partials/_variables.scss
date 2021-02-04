@@ -28,19 +28,3 @@ $container-max-widths: (
 ) !default;
 
 @include _assert-ascending($container-max-widths, "$container-max-widths");
-
-// Icons
-$icomoon-font-family: "icomoon" !default;
-$icomoon-font-path: "{{ site.url }}/assets/fonts" !default;
-
-$icon-about: "\e900";
-$icon-blog: "\e901";
-$icon-contact: "\e902";
-$icon-github: "\e903";
-$icon-home: "\e904";
-$icon-linkedin: "\e905";
-$icon-logo: "\e906";
-$icon-portfolio: "\e907";
-$icon-resume: "\e908";
-$icon-send: "\e909";
-
