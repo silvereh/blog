@@ -18,16 +18,16 @@ language:
   fr: "Français"
 permalink: /:categories/:collection/:title/
 env: "prod"
-pics:
-  fr: "/assets/img/flag-fr.svg"
-  en: "/assets/img/flag-us.svg"
-  logo: "/assets/img/logo.svg"
+# pics:
+#   fr: "/assets/img/flag-fr.svg"
+#   en: "/assets/img/flag-us.svg"
+#   logo: "/assets/img/logo.svg"
 
 # Base URL is used in the manner that is specified by this guide
 # (http://jekyllrb.com/docs/github-pages/) which is to say, it's
 # not used at all.
 baseurl: "/blog"
-url: "https://silvereh.github.io"
+url: "https://silvereh.github.io/blog"
 github_username: silvereh
 
 # Languages and syntax highlighting
