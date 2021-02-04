@@ -9,6 +9,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem 'jekyll-feed'
 # gem 'scss_lint'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
