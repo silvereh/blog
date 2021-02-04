@@ -31,7 +31,7 @@ $container-max-widths: (
 
 // Icons
 $icomoon-font-family: "icomoon" !default;
-$icomoon-font-path: "/assets/fonts" !default;
+$icomoon-font-path: "{{ site.url }}/assets/fonts" !default;
 
 $icon-about: "\e900";
 $icon-blog: "\e901";
