@@ -1,0 +1,67 @@
+# Basic info
+name: "Silvère Héraudeau"
+job: 
+  en: "Web Engineer"
+  fr: "Ingénieur Web"
+title: "Silvere Heraudeau"
+email: "silvere.heraudeau@gmail.com"
+description: 
+  en: "A blog to publish articles I have written"
+  fr: "Un blog pour publier les articles que j'ai écrits"
+disclaimer:
+  en: "Disclaimer: This site is currently in construction. As such, almost no styles are present. I am currently working on a design."
+  fr: "Avertissement : Ce site est actuellement en construction. C'est pourquoi il n'y a presque pas de styles. Je suis en train de travailler sur une apparence visuelle."
+lang: "en"
+languages: ["en", "fr"]
+language:
+  en: "English"
+  fr: "Français"
+permalink: /:categories/:collection/:title/
+env: "prod"
+pics:
+  fr: "/assets/img/flag-fr.svg"
+  en: "/assets/img/flag-us.svg"
+  logo: "/assets/img/logo.svg"
+
+# Base URL is used in the manner that is specified by this guide
+# (http://jekyllrb.com/docs/github-pages/) which is to say, it's
+# not used at all.
+baseurl: ""
+url: "https://silvereh.github.io/blog"
+github_username: silvereh
+
+# Languages and syntax highlighting
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Include static pages
+include: ["_content"]
+
+exclude: [
+  "_assets",
+  "Gemfile",
+  "Gemfile.lock",
+]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Silvere Heraudeau"
+      comments: true
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      author: "Silvere Heraudeau"
+
+theme: null
