@@ -55,5 +55,9 @@ h1, h2, h3 {
   font-size: 90%;
 }
 
+.container {
+  margin-bottom: 80px;
+}
+
 @import 'partials/icons';
 @import './partials/nav';
