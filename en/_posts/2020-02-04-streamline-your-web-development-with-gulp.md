@@ -660,4 +660,4 @@ Hopefully, you now feel more comfortable with Gulp and are ready to explore on y
 
 If you feel like I made a mistake, please let me know in the comments below or [contact me][20], so I can make sure to address those issues.
 
-[20]: /contact/ "contact me"
+[20]: https://silvereh.github.io/#contact "contact me"

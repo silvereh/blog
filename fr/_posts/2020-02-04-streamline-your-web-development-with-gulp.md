@@ -658,4 +658,4 @@ J'espère que vous vous sentez maintenant plus à l'aise avec Gulp et que vous �
 
 Si vous pensez que j'ai fait une erreur, veuillez me le faire savoir dans les commentaires ci-dessous ou [me contacter][20], afin que je puisse m'assurer de régler ces problèmes.
 
-[20]: /contact/ "contact me"
+[20]: https://silvereh.github.io/#contact "contact me"
