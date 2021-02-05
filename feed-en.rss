@@ -16,7 +16,7 @@ layout: null
 				<title>{{ post.title }}</title>
 				<categories>
 					{%- for tag in post.tags -%}
-						{%- if tag == tags.first -%}
+						{%- if tag == post.tags.first -%}
 							{{ tag }}
 						{%- else -%}
 							{{ tag | prepend:', ') }}
