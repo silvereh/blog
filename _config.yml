@@ -26,7 +26,7 @@ env: "prod"
 # Base URL is used in the manner that is specified by this guide
 # (http://jekyllrb.com/docs/github-pages/) which is to say, it's
 # not used at all.
-baseurl: "/blog"
+baseurl: ""
 url: "https://silvereh.github.io/blog"
 github_username: silvereh
 
