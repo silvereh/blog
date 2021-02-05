@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0">
 	<channel>
 		<title>{{ site.title }}</title>
-		<description>{{ site.description }}</description>
+		<description>{{ site.description.en }}</description>
 		<link>{{ site.url }}</link>
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -15,7 +15,7 @@ layout: null
 			<item>
 				<title>{{ post.title }}</title>
 				<categories>{{ post.categories }}</categories>
-				<description>{{ post.description }}</description>
+				<description>{{ post.excerpt }}</description>
 				<link>{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
