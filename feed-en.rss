@@ -14,7 +14,7 @@ layout: null
 		{%- for post in site.categories.en -%}
 			<item>
 				<title>{{ post.title }}</title>
-				<categories>{{ post.categories }}</categories>
+				<categories>{{ post.tags }}</categories>
 				<description>{{ post.excerpt }}</description>
 				<link>{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
