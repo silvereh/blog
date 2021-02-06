@@ -51,11 +51,17 @@
       color: $gold;
     }
 
-    @include hover-focus-active {
+    @include hover-focus {
       font-size: 46px;
 
       [class^="icon-"], [class*=" icon-"] {
         color: $teal;
+      }
+    }
+
+    &.active {
+      [class^="icon-"], [class*=" icon-"] {
+        color: $purple;
       }
     }
   }
