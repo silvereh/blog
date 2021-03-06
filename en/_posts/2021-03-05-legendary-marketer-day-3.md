@@ -26,4 +26,4 @@ The best solution to build an effective sales funnel is to mimic a successful on
 
 ### Get Traffic
 
-Check competitor in adbeat.com and model their ads.
+To increase your traffic via advertisement, check competitor in adbeat.com and model their ads. If you can't afford to pay for advertisement, you gonna need to grow an organic audience in social medias like Facebook, TikTok, Instagram, etc... Organic marketing takes more time to start with as you need to grow your audience before you can actually make money promoting produccts.
