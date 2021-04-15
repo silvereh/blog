@@ -8,7 +8,7 @@ categories: [en]
 The [Legendary Marketer][1] is an online programme designed to teach you all you need to know to be able to grow an online business from nothing.
 In this lesson, we are learning how to build our first business.
 
-[1]: https:bit.ly/15daysonly "Start the 15 days challenge now"
+[1]: https://bit.ly/15daysonly "Start the 15 days challenge now"
 
 ## Choose a product
 
