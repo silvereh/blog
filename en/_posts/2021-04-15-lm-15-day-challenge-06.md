@@ -1,5 +1,5 @@
 ---
-title: Common Questions
+title: 15 Days Challenge 6 - Common Questions
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge]
 lang: en
 ref: legendary-marketer

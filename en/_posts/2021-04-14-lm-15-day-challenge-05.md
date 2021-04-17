@@ -1,5 +1,5 @@
 ---
-title: Writing Your Business Plan
+title: 15 Days Challenge 5 - Writing Your Business Plan
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, businessplan]
 lang: en
 ref: legendary-marketer

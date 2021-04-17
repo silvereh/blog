@@ -1,5 +1,5 @@
 ---
-title: What is a Profitable Business
+title: 15 Days Challenge 2 - What is a Profitable Business
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, profit]
 lang: en
 ref: legendary-marketer

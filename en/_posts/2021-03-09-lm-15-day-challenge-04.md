@@ -1,5 +1,5 @@
 ---
-title: Your Mindset Affects Your Success
+title: 15 Days Challenge 4 - Your Mindset Affects Your Success
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, mindset]
 lang: en
 ref: legendary-marketer

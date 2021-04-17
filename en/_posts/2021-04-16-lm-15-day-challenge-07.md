@@ -1,5 +1,5 @@
 ---
-title: Transitioning to Full-Time Entrepreneur
+title: 15 Days Challenge 7 - Transitioning to Full-Time Entrepreneur
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, transition]
 lang: en
 ref: legendary-marketer

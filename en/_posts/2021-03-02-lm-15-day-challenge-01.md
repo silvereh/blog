@@ -1,5 +1,5 @@
 ---
-title: What is a Funnel
+title: 15 Days Challenge 1 - What is a Funnel
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, funnel, salesfunnel]
 lang: en
 ref: legendary-marketer
