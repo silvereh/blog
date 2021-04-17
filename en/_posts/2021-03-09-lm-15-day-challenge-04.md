@@ -5,7 +5,7 @@ lang: en
 ref: legendary-marketer
 categories: [en]
 ---
-The [Legendary Marketer][1] is an online programme designed to teach you all you need to know to be able to grow an online business from nothing.
+The [15 Days Challenge][1] is an online programme designed to teach you all you need to know to be able to grow an online business from nothing.
 In this lesson, after a week of waiting to meet my business advisor, I'm learning about mindset and how it can affect one's ability to succeed.
 
 [1]: https://bit.ly/15daysonly "Start the 15 days challenge now"
