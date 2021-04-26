@@ -1,5 +1,5 @@
 ---
-title: Legendary Marketer Day 12
+title: 15 Day Challenge 12 - Outsourcing
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, outsourcing]
 lang: en
 ref: legendary-marketer

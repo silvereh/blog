@@ -1,5 +1,5 @@
 ---
-title: Legendary Marketer Day 12
+title: 15 Day Challenge 12 - Sous-Traitance
 tags: [business, digitalmarketing, legendarymarketer, makemoneyonline, onlinebusiness, 15dayschallenge, outsourcing]
 lang: en
 ref: legendary-marketer
