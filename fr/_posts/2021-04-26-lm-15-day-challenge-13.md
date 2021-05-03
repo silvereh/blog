@@ -5,10 +5,10 @@ lang: en
 ref: legendary-marketer
 categories: [en]
 ---
-The [15 Days Challenge][1] is an online programme designed to teach you all you need to know to be able to grow an online business from nothing.
+Le [15 Days Challenge][1] est un programme en ligne conçu pour vous apprendre tout ce que vous devez savoir pour pouvoir développer une activité en ligne à partir de rien.
 La leçon d'aujourd'hui est axée sur l'investissement, en particulier sur vous-même.
 
-[1]: https://bit.ly/15daysonly "Start the 15 days challenge now"
+[1]: https://bit.ly/15daysonly "Démarrez le 15 days challenge maintenant"
 
 ## La clé du succès de toute entreprise : l'argent des autres
 
